@@ -3,8 +3,14 @@
 using namespace std;
 int main()
 {
-	cout << "Hello World!\n";
+	int name;
 	
+	cout << "What is your name?" endl;
+	cin >> name;
+	
+	cout << "Your name is " << name 
+	
+		
 	return 0;
 
 }
